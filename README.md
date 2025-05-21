@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there 👋
+Hello, I'm willowtree1184, a Chinese programmer!
+
+## Contact me 💬
+I am available to chat at [xucx_2020@163.com](mailto:xucx_2020@163.com). Feel free to send me a message, whatever you want to talk about.
 
 <!--
 **WillowTree1184/willowtree1184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
