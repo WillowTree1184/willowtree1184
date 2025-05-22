@@ -11,6 +11,7 @@ I am available to chat at [xucx_2020@163.com](mailto:WillowTree1184<xucx_2020@16
 - [ ] Develop a 3D render engine called Cuber Engine.
 
 ## Fun fact
+As a Chinese boy, I'm actually not very good at English. 60% of English word you see is the result of a translating program.
 
 <!--
 **WillowTree1184/willowtree1184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
